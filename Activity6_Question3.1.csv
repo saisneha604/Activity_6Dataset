@@ -1,0 +1,31 @@
+Brand,Model,Processor,RAM,Price
+Dell,XPS 13,Intel Core i7-1165G7,16,1200
+Dell,Inspiron 15,Intel Core i5-1135G7,8,700
+Dell,Latitude 7410,Intel Core i7-10610U,16,1500
+Dell,G5 15 Gaming,AMD Ryzen 7 4800H,16,1300
+Dell,XPS 15,Intel Core i7-10750H,32,2400
+Dell,Alienware m15,Intel Core i7-10750H,16,1800
+Dell,Inspiron 14,AMD Ryzen 5 5500U,8,600
+Dell,Latitude 5520,Intel Core i5-1135G7,8,1100
+Dell,Vostro 5502,Intel Core i5-1135G7,8,950
+Dell,Precision 3551,Intel Core i7-10850H,16,2100
+Apple,MacBook Air M1,Apple M1,8,999
+Apple,"MacBook Pro 13"" M1",Apple M1,8,1299
+Apple,"MacBook Pro 16"" M1 Pro",Apple M1 Pro,16,2499
+Apple,MacBook Air M2,Apple M2,8,1199
+Apple,"MacBook Pro 13"" M2",Apple M2,8,1499
+Apple,"MacBook Pro 14"" M1 Pro",Apple M1 Pro,16,1999
+Apple,"MacBook Pro 14"" M1 Max",Apple M1 Max,32,2999
+Apple,"MacBook Pro 16"" M1 Max",Apple M1 Max,32,3499
+HP,Spectre x360,Intel Core i7-1165G7,16,1300
+HP,Envy x360,AMD Ryzen 5 4500U,8,800
+HP,Elite Dragonfly,Intel Core i5-1135G7,16,1800
+HP,Pavilion 15,Intel Core i5-1135G7,8,650
+HP,Omen 15,AMD Ryzen 7 5800H,16,1600
+HP,EliteBook 840 G7,Intel Core i5-10210U,8,1200
+HP,ZBook Firefly 14 G7,Intel Core i7-10510U,16,2100
+Lenovo,ThinkPad X1 Carbon,Intel Core i7-1165G7,16,1400
+Lenovo,IdeaPad 5,AMD Ryzen 5 5500U,8,650
+Lenovo,Yoga Slim 7,AMD Ryzen 7 4800U,16,950
+Lenovo,Legion 5,AMD Ryzen 7 5800H,16,1100
+Lenovo,ThinkPad X13,AMD Ryzen 5 PRO 465,8,800
